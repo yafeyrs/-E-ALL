@@ -1,18 +1,44 @@
-Now
+# E-ALL Roadmap
 
-- Product catalog refinement
-- UI/UX polish
-- Performance optimization
+---
 
-Next
+# Version 1.0
 
-- Product comparison
-- Download center
-- SEO enhancements
+## Completed
 
-Future
+- Homepage
+- About
+- Brands
+- Product Pages
+- Product Search
+- Product Categories
+- Responsive Design
+- Inquiry Section
+- Contact Page
+- Cloudflare Deployment
 
-- Dealer portal
-- Customer accounts
-- Quotation workflow
-- Inventory synchronization
+---
+
+# Version 1.1
+
+## Planned
+
+- Product Comparison
+- Download Center
+- Product Videos
+- Product Reviews
+- Better SEO
+- Performance Optimization
+
+---
+
+# Version 2.0
+
+## Future
+
+- Dealer Portal
+- Customer Login
+- Inventory Integration
+- Quotation Requests
+- Product Availability
+- Order Tracking
